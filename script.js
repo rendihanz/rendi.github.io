@@ -1,7 +1,21 @@
-const audio =
 
-docamentbqdyrySdbeament.bodyg');
+onload = () => {
+  const c = setTimeout(() => {
+    document.body.classLi
+onload = () => {
+  const c = setTimeout(() => {
+    document.body.classList.remove("not-loaded");
+    clearTimeout(c);
+  }, 1000);
+};
 
-audio.addEventListener('play', () => { body.classList.add('play-music'); });
-
-audio.addEventListener('pause', () => { body.classList.remove('play-music'); });
+onload = () => {
+  const c = setTimeout(() => {
+    document.body.classList.remove("not-loaded");
+    clearTimeout(c);
+  }, 1000);
+};
+st.remove("not-loaded");
+    clearTimeout(c);
+  }, 1000);
+};
